@@ -1,0 +1,15 @@
+C:\Portfolio\C# Projects\ATM Project\ATM Project 2\ATM Project A2\bin\Debug\net6.0\ATM Project A2.exe
+C:\Portfolio\C# Projects\ATM Project\ATM Project 2\ATM Project A2\bin\Debug\net6.0\ATM Project A2.deps.json
+C:\Portfolio\C# Projects\ATM Project\ATM Project 2\ATM Project A2\bin\Debug\net6.0\ATM Project A2.runtimeconfig.json
+C:\Portfolio\C# Projects\ATM Project\ATM Project 2\ATM Project A2\bin\Debug\net6.0\ATM Project A2.dll
+C:\Portfolio\C# Projects\ATM Project\ATM Project 2\ATM Project A2\bin\Debug\net6.0\ATM Project A2.pdb
+C:\Portfolio\C# Projects\ATM Project\ATM Project 2\ATM Project A2\obj\Debug\net6.0\ATM Project A2.csproj.AssemblyReference.cache
+C:\Portfolio\C# Projects\ATM Project\ATM Project 2\ATM Project A2\obj\Debug\net6.0\ATM Project A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portfolio\C# Projects\ATM Project\ATM Project 2\ATM Project A2\obj\Debug\net6.0\ATM Project A2.AssemblyInfoInputs.cache
+C:\Portfolio\C# Projects\ATM Project\ATM Project 2\ATM Project A2\obj\Debug\net6.0\ATM Project A2.AssemblyInfo.cs
+C:\Portfolio\C# Projects\ATM Project\ATM Project 2\ATM Project A2\obj\Debug\net6.0\ATM Project A2.csproj.CoreCompileInputs.cache
+C:\Portfolio\C# Projects\ATM Project\ATM Project 2\ATM Project A2\obj\Debug\net6.0\ATM Project A2.dll
+C:\Portfolio\C# Projects\ATM Project\ATM Project 2\ATM Project A2\obj\Debug\net6.0\refint\ATM Project A2.dll
+C:\Portfolio\C# Projects\ATM Project\ATM Project 2\ATM Project A2\obj\Debug\net6.0\ATM Project A2.pdb
+C:\Portfolio\C# Projects\ATM Project\ATM Project 2\ATM Project A2\obj\Debug\net6.0\ATM Project A2.genruntimeconfig.cache
+C:\Portfolio\C# Projects\ATM Project\ATM Project 2\ATM Project A2\obj\Debug\net6.0\ref\ATM Project A2.dll
